@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WincomRP-D-AC-THPPRecruitmentExercise", "WincomRP-D-AC-THPPRecruitmentExercise.csproj", "{E4573AAD-B644-4C0D-A742-5D7783B4056E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4573AAD-B644-4C0D-A742-5D7783B4056E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4573AAD-B644-4C0D-A742-5D7783B4056E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4573AAD-B644-4C0D-A742-5D7783B4056E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4573AAD-B644-4C0D-A742-5D7783B4056E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -2,11 +2,11 @@
 A simple autocompleter program created for the Epitech "Open Job Day".
 
 ## Compilation instructions
-To compile the program, you should have **.NET 7.0 Runtime** installed. In case you don't, you can download it [here](https://dotnet.microsoft.com/es-es/download).
+To compile the program, you should have **.NET 7.0 Runtime** and **.NET** installed. In case you don't, you can download them [here](https://dotnet.microsoft.com/es-es/download).
 
 **IF YOU ARE ON LINUX**
 
-In Linux, instead of downloading .NET 7.0 Runtime, you just have to download .NET as a whole. To do it, you have to run a series of commands in the terminal:
+In Linux, instead of downloading **.NET 7.0 Runtime** and **.NET**, you just have to download **.NET**. To do it, you have to run a series of commands in the terminal:
 ```bash
 wget https://dot.net/v1/dotnet-install.sh -O dotnet-install.sh
 chmod +x ./dotnet-install.sh

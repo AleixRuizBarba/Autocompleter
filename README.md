@@ -14,7 +14,7 @@ dotnet publish -c Release
 ```
 **IMPORTANT:** You should always run this command in the folder you have the repository installed.
 
-# Run instructions
+## Run instructions
 To run the compiled program, you have to find the path to it. Normally, it will be in **bin/Release/net7.0/**, named Autocompleter. Once you know the path to the program, you should run the following command in the terminal:
 ```bash
 ./bin/Release/net7.0/Autocompleter

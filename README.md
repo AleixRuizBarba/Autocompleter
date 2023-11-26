@@ -21,7 +21,7 @@ dotnet --version
 
 Once you have everything set up, you can compile the program running the following command in the terminal:
 ```bash
-dotnet publish -c Release
+dotnet publish -c Release --self-contained
 ```
 **IMPORTANT:** You should always run this command in the folder you have the repository installed.
 
